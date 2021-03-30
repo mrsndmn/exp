@@ -1,3 +1,3 @@
-module github.com/my-mail-ru/exp/mmap
+module github.com/mrsndmn/exp/mmap
 
 go 1.13
